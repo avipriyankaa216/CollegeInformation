@@ -8,7 +8,7 @@ public class College {
 	}
 	public void collegecode() {
 		// TODO Auto-generated method stub
-System.out.println("college code is 5675");
+System.out.println("college code is 56757676");
 	}
 	public void collegerank() {
 		// TODO Auto-generated method stub
